@@ -1,0 +1,7 @@
+에코 "# -28" >> README.md
+그 안에 있는
+git add README.md
+git commit -m "first commit"
+깃가지 - 메인
+git remote add origin https://github.com/lee00B/-28.git
+git push-u origin 메인
